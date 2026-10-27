@@ -1,4 +1,4 @@
-# Campus Equipment Booking Service
+# Campus Equipment Booking Service CIA
 Java 17 / Spring Boot REST API for a CI/CD lab assessment.
 
 ## Build and test
