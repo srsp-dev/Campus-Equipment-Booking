@@ -4,3 +4,26 @@ target/
 *.iml
 *.log
 startup-log.txt
+# Maven build output
+target/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+startup-log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Downloaded binaries
+minikube-linux-amd64
+
+# Environment secrets
+.env
+.env.*
+!.env.example
